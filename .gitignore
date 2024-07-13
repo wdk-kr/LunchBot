@@ -3,3 +3,4 @@ version.txt
 *.pkl
 Token_info.py
 commit_hash.txt
+.DS_Store
