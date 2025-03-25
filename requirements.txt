@@ -1,0 +1,6 @@
+discord.py
+apscheduler
+pytz
+colorlog
+requests
+beautifulsoup4
